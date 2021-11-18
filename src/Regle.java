@@ -46,6 +46,7 @@ public class Regle {
 
         }else{
             System.out.println(s+" - caractere non defini");
+            //tttfzaedsfd
 
         }
         return false;
